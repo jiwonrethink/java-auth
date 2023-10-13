@@ -1,0 +1,6 @@
+jwt:
+  issuer: jiwon.lee
+  header: Authorization
+  secret: iXaS4lFbeJ3HBO8UxS4nUoOA/IPyrpypPo2arebkW+k= # HMAC-SHA256
+  refresh-token-validity-in-seconds: 604800 # 168시간 (7일)
+  access-token-validity-in-seconds: 36000 # 10시간
